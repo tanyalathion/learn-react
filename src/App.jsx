@@ -1,5 +1,7 @@
+const title="Merci @Graphikart pour le tuto"
+
 function App() {
-  return <h1>Merci Graphikart pour le tuto</h1>
+  return <h1>{title}</h1>
 }
 
 export default App
