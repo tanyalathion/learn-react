@@ -1,4 +1,4 @@
-const title="Merci @Graphikart pour le tuto"
+const title="Merci @Graphikart pour le tuto React"
 
 function App() {
   return <h1>{title}</h1>
