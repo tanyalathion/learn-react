@@ -1,7 +1,8 @@
 const title="Merci @Graphikart pour le tuto React"
+const id = "exemple"
 
 function App() {
-  return <h1>{title}</h1>
+  return <h1 id={id}>{title}</h1>
 }
 
 export default App
